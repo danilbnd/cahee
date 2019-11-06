@@ -606,13 +606,13 @@ button,
 .ba-button--gallery {
   background: #5585a2;
   min-width: 200px; }
-  .ba-button--galleryhover {
+  .ba-button--gallery:hover {
     background: #3b5c70; }
 
 .ba-button--blog {
   background: #f72b3b;
   min-width: 200px; }
-  .ba-button--bloghover {
+  .ba-button--blog:hover {
     background: #ce0817; }
 
 .ba-button--subscribe {

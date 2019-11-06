@@ -29,14 +29,14 @@ button,
 	&--gallery{
 		background: #5585a2;
 		min-width: 200px;
-		&hover{
+		&:hover{
 			background: darken(#5585a2, 15%);
 		}
 	}
 	&--blog{
 		background: #f72b3b;
 		min-width: 200px;
-		&hover{
+		&:hover{
 			background: darken(#f72b3b, 15%);
 		}
 	}
