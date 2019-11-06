@@ -1,0 +1,42 @@
+.ba-section-contacts {
+  background: url(../img/bg-cloud.jpg);
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 60px; }
+
+.ba-contacts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-line-pack: center;
+  align-content: center; }
+  .ba-contacts__title {
+    font-weight: 700;
+    font-size: 90px;
+    padding-bottom: 50px; }
+  .ba-contacts__subtitle {
+    padding: 0 400px;
+    text-align: center;
+    padding-bottom: 45px; }
+
+.ba-contacts__input {
+  background: #68d1cfd7;
+  width: 500px;
+  height: 50px;
+  margin-bottom: 15px;
+  border: none;
+  padding-left: 20px; }
+  .ba-contacts__input--height {
+    height: 250px; }
+
+/*# sourceMappingURL=_contacts.css.map */

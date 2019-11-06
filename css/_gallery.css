@@ -1,0 +1,26 @@
+.ba-section-gallery {
+  background: #fee745;
+  padding-top: 100px;
+  padding-bottom: 120px; }
+
+.ba-gallery__block-one {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: -30px; }
+  .ba-gallery__block-one__item-one {
+    width: 33.33%;
+    padding-left: 30px;
+    margin-bottom: 30px; }
+
+.ba-gallery__block-two__item-one--width {
+  width: 66.66%; }
+
+.ba-gallery__block-two__item-two {
+  width: 50%;
+  padding-left: 30px;
+  margin-bottom: 30px; }
+
+/*# sourceMappingURL=_gallery.css.map */

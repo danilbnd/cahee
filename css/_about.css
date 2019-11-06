@@ -1,0 +1,22 @@
+.ba-section-about {
+  background: #1bb1b0;
+  padding: 70px 0; }
+
+.ba-about {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+  .ba-about__us {
+    padding-left: 90px; }
+  .ba-about__title {
+    font-size: 90px;
+    font-weight: 700;
+    color: #fff; }
+
+/*# sourceMappingURL=_about.css.map */

@@ -1,0 +1,75 @@
+.ba-section-blog {
+  background: #af80f4;
+  color: #fff;
+  padding: 80px 0 110px; }
+
+.ba-blog {
+  text-align: center;
+  padding-bottom: 50px; }
+  .ba-blog__title {
+    font-size: 90px;
+    font-weight: 700;
+    padding-bottom: 17px; }
+  .ba-blog__container {
+    padding: 0 300px;
+    padding-bottom: 40px; }
+
+.ba-post img {
+  display: block;
+  width: 100%; }
+
+.ba-post {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  position: relative; }
+
+.ba-post-date {
+  background: rgba(0, 0, 0, 0.5);
+  width: 60px;
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 8px;
+  line-height: 1;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  z-index: 2; }
+
+.ba-post-date span {
+  font-size: 20px;
+  font-weight: 900;
+  text-transform: uppercase; }
+
+.ba-post-body {
+  z-index: 1;
+  position: absolute;
+  /* font-size: 20px; */
+  bottom: 0px;
+  left: 0px;
+  padding: 50px 20px 20px;
+  width: 100%;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#000), to(transparent));
+  background-image: -webkit-linear-gradient(bottom, #000, transparent);
+  background-image: -o-linear-gradient(bottom, #000, transparent);
+  background-image: linear-gradient(to top, #000, transparent); }
+
+.ba-post-title {
+  margin-bottom: 12px; }
+
+/*# sourceMappingURL=_blog.css.map */

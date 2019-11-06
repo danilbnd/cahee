@@ -1,0 +1,22 @@
+.ba-section-intro {
+  background: url(../img/bg-milk.jpg);
+  background-size: cover;
+  text-align: center;
+  padding: 290px 0 70px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start; }
+
+.ba-intro {
+  padding-right: 815px;
+  text-align: left;
+  padding-bottom: 295px; }
+  .ba-intro__title {
+    padding-bottom: 30px; }
+  .ba-intro__subtitle {
+    padding-bottom: 30px; }
+
+/*# sourceMappingURL=_intro.css.map */
